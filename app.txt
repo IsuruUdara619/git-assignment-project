@@ -1,2 +1,2 @@
-Hello from main
-Welcomee to the assignment!
+Line B from bug/conflict-b
+Another line B
