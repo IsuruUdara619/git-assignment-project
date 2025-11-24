@@ -1,2 +1,2 @@
-Hello from main
-Welcomee to the assignment!
+Line A from feature/conflict-a
+Another line A
