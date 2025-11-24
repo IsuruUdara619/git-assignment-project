@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Line A from feature/conflict-a
 Another line A
+=======
+Line B from bug/conflict-b
+Another line B
+>>>>>>> origin/bug/conflict-b
